@@ -1,1 +1,3 @@
-
+## A Criterion for the Uniform Continuity of Univariate Functions    
+   
+The uniform continuity of univariate functions can usually be deter- mined by quantitative relations, Cantor’s theorem, Lipschitz criterion, etc., which are suitable for a narrow range and are weak in operability for complex problems. Based on the theorem of higher mathematics and aimed at univariate functions defined on real number intervals, this pa- per gives a criterion for the uniform continuity of univariate functions by judging the bounded rate of change of the function. Meanwhile, proofs are provided along with examples, offering a convenient approach for solving practical problems.
